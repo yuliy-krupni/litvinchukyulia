@@ -44,7 +44,7 @@ li {
 .pathway {
     padding: 0px 250px;
     text-align: left;
-    font-size: 23px;
+    font-size: 30px;
 	background-color:#CEEEC1;
 }
 #dobro{
@@ -95,4 +95,20 @@ li {
 	background-color: #DBF9FE;
 	padding: 100px 100px 100px 50px;
 	margin-bottom: 10px;
+}
+.uch1{
+	margin: 10px 0px;
+	background-color: #DBF9FE;
+	font-size: 28px;
+	padding: 0px 0px 0px 400px;
+}
+#video4{0
+	background-color: #DBF9FE;
+	margin-bottom: 10px;
+}
+#kol{
+	background-color: #DBF9FE;
+	margin: 10px 0px;
+	padding: 10px 50px;
+	font-size: 20px;
 }
